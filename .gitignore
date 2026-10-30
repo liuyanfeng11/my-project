@@ -1,0 +1,33 @@
+# 系统文件
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# IDE
+.vs/
+.vscode/
+.idea/
+*.sln
+*.suo
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+
+# MATLAB
+*.asv
+*.m~
+
+# 编译输出
+build/
+dist/
+*.exe
+*.obj
+*.o
+
+# 临时文件
+*.tmp
+*.log
